@@ -1,5 +1,5 @@
 # 🛡️ Sentinel-Probe: Full-Stack Telemetry & Fingerprinting Suite
-
+- [guia](guia.md)
 ![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![PHP](https://img.shields.io/badge/backend-PHP%207.4%2B-purple.svg)
@@ -42,4 +42,4 @@ Sentinel-Probe/
 ├── 📄 database.sql      # Schema: Código para crear la tabla necesaria.
 └── 📄 README.md         # Documentación.
 
-- [guia](guia.md)
+
