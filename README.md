@@ -8,7 +8,7 @@
 
 > **⚠️ AVISO LEGAL:** Este software ha sido desarrollado únicamente con fines educativos y de investigación en ciberseguridad. El autor no se hace responsable del uso indebido de esta herramienta.
 
-## Resumen Técnico
+## 📋 Resumen Técnico
 
 **Sentinel-Probe** es un framework ligero de auditoría y análisis forense digital diseñado para capturar, exfiltrar y visualizar telemetría del lado del cliente en tiempo real.
 
@@ -17,15 +17,15 @@ El sistema consta de tres componentes principales:
 2.  **Logger (Backend):** Una API silenciosa en PHP que procesa y almacena los datos de forma asíncrona en MySQL.
 3.  **Command Dashboard:** Una interfaz gráfica segura basada en Bootstrap 5 para la visualización, filtrado y análisis de los vectores capturados.
 
-## Capacidades
+## 🚀 Capacidades
 
-### Motor de Captura
+### 🕵️ Motor de Captura
 *   **Device Fingerprinting:** Identificación precisa de S.O. (Windows/Linux/Android/iOS), arquitectura y modelo de dispositivo móvil.
 *   **Geo-Intelligence:** Triangulación de IP, País, Región y Ciudad mediante integración con APIs externas (IPAPI).
 *   **Persistencia:** Uso de `fetch` con la directiva `keepalive` para garantizar la transmisión de datos incluso si el usuario cierra la pestaña inmediatamente.
 *   **Compatibilidad CORS:** Configurado para recibir telemetría desde orígenes cruzados (Cross-Origin).
 
-### Panel de Control (Dashboard)
+### 📊 Panel de Control (Dashboard)
 *   **Seguridad:** Sistema de autenticación nativo protegido por contraseña.
 *   **Visualización:** Tabla reactiva con iconos dinámicos según el tipo de dispositivo detectado.
 *   **Herramientas:** Copiado de IP en un clic y enlace directo a Google Maps para rastreo de ubicación.
