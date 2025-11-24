@@ -21,7 +21,7 @@ Accede a tu gestor de base de datos (phpMyAdmin) y ejecuta el siguiente comando 
 ); 
 </pre>
 
-En caso de querer crear la base de datos desde el servidor modificar estos parametro en el `install.php`
+En caso de querer crear la base de datos desde el servidor modificar estos parametros en el `install.php`
 
 <pre> 
 // ================= CONFIGURACIÓN =================
