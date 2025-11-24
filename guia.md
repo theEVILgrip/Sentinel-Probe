@@ -37,8 +37,8 @@ Luego realiazr una llamada al archivo `install.php`
 Entra en tu navegador a la dirección: `https://tu-sitio.com/install.php.`
 Verás un botón verde grande que dice "INSTALAR AHORA". Púlsalo.
 Si todo sale bien, te dirá "Éxito".
-⚠️ Advertencia de Seguridad
-Una vez que hayas ejecutado el script y la tabla esté creada, BORRA EL ARCHIVO install.php DE TU SERVIDOR.
+> **⚠️ Advertencia de Seguridad:** Una vez que hayas ejecutado el script y la tabla esté creada, BORRA EL ARCHIVO `install.php` DE TU SERVIDOR.
+
 # Paso 2: Configurar el Logger (Backend)
 
 Abre el archivo logger.php y edita la sección de configuración con las credenciales de tu base de datos:
