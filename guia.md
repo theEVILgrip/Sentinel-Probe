@@ -33,7 +33,8 @@ $dbname = "CREDENCIAL"; // NOMBRE DE LA BD AQUÍ
 // =================================================
 </pre>
 
-Luego realiazr una llamada al archivo `install.php`
+Luego realiaza una llamada al archivo `install.php`
+
 Entra en tu navegador a la dirección: `https://tu-sitio.com/install.php.`
 Verás un botón verde grande que dice "INSTALAR AHORA". Púlsalo.
 Si todo sale bien, te dirá "Éxito".
