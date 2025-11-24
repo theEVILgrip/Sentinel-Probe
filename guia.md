@@ -42,7 +42,7 @@ Si todo sale bien, te dirá "Éxito".
 
 # Paso 2: Configurar el Logger (Backend)
 
-Abre el archivo logger.php y edita la sección de configuración con las credenciales de tu base de datos:
+Abre el archivo `logger.php` y edita la sección de configuración con las credenciales de tu base de datos:
 
 <pre> 
 // logger.php
@@ -55,7 +55,7 @@ $port = CREDENCIAL; // PUERTO DE LA BD AQUÍ
 </pre>
 
 # Paso 3: Configurar el Dashboard
-Abre el archivo dashboard.php y configura tanto el acceso a la BD como la contraseña para entrar al panel web:
+Abre el archivo `dashboard.php` y configura tanto el acceso a la BD como la contraseña para entrar al panel web:
 
 <pre> 
 // dashboard.php
@@ -73,7 +73,7 @@ $port = CREDENCIAL; // PUERTO DE LA BD AQUÍ
 
 # Paso 4: Configurar el Payload (Frontend)
 
-Abre el archivo index.html. Busca la constante API_URL y coloca la dirección web pública donde subiste el archivo logger.php.
+Abre el archivo index.html. Busca la constante API_URL y coloca la dirección web pública donde subiste el archivo `logger.php`.
 
 <pre> 
 // index.html
