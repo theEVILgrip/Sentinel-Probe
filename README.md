@@ -41,7 +41,5 @@ Sentinel-Probe/
 ├── 📄 index.html        # Payload Frontend: El archivo que ejecuta la captura.
 ├── 📄 database.sql      # Schema: Código para crear la tabla necesaria.
 ├── 📄 install.php       # Schema php: Crea la base de datos desde el servidor.
-└── 📄 README.md         # Documentación.
-
-
-
+├── 📄 README.md         # Documentación.
+└── 📄 guia.md           # Guía de Despliegue.
