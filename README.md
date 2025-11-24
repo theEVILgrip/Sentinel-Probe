@@ -1,5 +1,5 @@
 # 🛡️ Sentinel-Probe: Full-Stack Telemetry & Fingerprinting Suite
-- [guia](guia.md)
+
 ![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![PHP](https://img.shields.io/badge/backend-PHP%207.4%2B-purple.svg)
@@ -17,7 +17,7 @@ El sistema consta de tres componentes principales:
 2.  **Logger (Backend):** Una API silenciosa en PHP que procesa y almacena los datos de forma asíncrona en MySQL.
 3.  **Command Dashboard:** Una interfaz gráfica segura basada en Bootstrap 5 para la visualización, filtrado y análisis de los vectores capturados.
 
-## 🚀 Capacidades
+## 🚀 - [Guía de uso](guia.md)
 
 ### 🕵️ Motor de Captura
 *   **Device Fingerprinting:** Identificación precisa de S.O. (Windows/Linux/Android/iOS), arquitectura y modelo de dispositivo móvil.
